@@ -9,6 +9,8 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+      rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -62,6 +64,8 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+           
         </style>
     </head>
     <body>
@@ -78,9 +82,11 @@
             @endif
 
             <div class="content">
+                 <img src="http://res.cloudinary.com/dgpjdyg8p/image/upload/v1442273666/professional_pmcttp.jpg" alt="BD" class="img-responsive img-circle center-block">
+
                 <div class="title m-b-md">
-                    LUSU VP Education Candidate <br>
-                    <h3>Benjamin Dada</h3>
+                    Vote <strong>Benjamin Dada</strong>&nbsp;As<br>
+                    VP Education 
                 </div>
 
                 <div class="links">
