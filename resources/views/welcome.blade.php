@@ -140,7 +140,7 @@
   <section id="about">
     <div class="container-fluid">
       <div class="about-sections">
-        <h1>Why am I running for this role?</h1><br>
+        <h1>Why am I running for this position?</h1><br>
         <div class="row">
           <div class="col-xs-12 col-sm-12 col-lg-3">
             <div class="about-section">
@@ -164,7 +164,7 @@
             <div class="about-section">
               <h3>Alignment with Manifesto promises</h3>
               <p>
-                I am a firm believer of the impact of extra-curricular activities and how it shapes students through their academic journeys. I jokingly tell people that their University fees are not all about tuition even though that makes a larger chunk of it. But the reason for being in a school is to benefit from the social interactions which has been structured into things like associations, unions and societies. My running for this role would be a "do as I have done" call.
+                I am a firm believer of the impact of extra-curricular activities and how it shapes students through their academic journeys. University fees are not all about tuition. But the reason for being in a school is to benefit from the social interactions which has been structured into things like classrooms, societies etc. My running for this role would be a "do as I have done" call.
               </p>
 
             </div>
@@ -173,7 +173,7 @@
             <div class="about-section">
               <h3>Encouragement to other BME and minority groups</h3>
               <p>
-                Before me, not many students from Black and Minority Groups (such as the disabled community) have attained the esteemed position of VP Education. I believe in my run, others who had hitherto wanted to do same will be encouraged. More importantly, this will lead to an improvement in quality of decision-making because more parties are represented at top level.
+                Not many students from Black and Minority Groups have attained the esteemed position of VP Education. I believe in my run, others who had hitherto wanted to do same will be encouraged. More importantly, this will lead to an improvement in quality of decision-making because more parties are represented at the top level.
               </p>
 
             </div>
