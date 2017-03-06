@@ -1,0 +1,222 @@
+/* CSS Document */
+
+body {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    line-height: 36px;
+    margin-top: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ 
+    font-family: "Playfair Display", "Georgia", serif;
+}
+/*vertically center the text on carousel*/
+.carousel-caption{
+    top: 50%; 
+    transform: translateY(-50%);
+    bottom: initial;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+nav#my-nav {
+    background-color: rgba(255,255,255,1);
+    border: 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    font-family: "Playfair Display", "Georgia", serif;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04);
+}
+
+#my-nav a.navbar-brand {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+}
+
+nav.my-nav ul li {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+nav.my-nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.my-nav-item a {
+    text-decoration: none;
+    color: #888;
+}
+
+.my-nav-item a.active {
+    color: #333;    
+}
+
+.navbar-collapse {
+    border-width: 1px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.navbar-header button {
+    background-color: #bbb;
+}
+
+.navbar-collapse.in li {
+    border-bottom: 1px solid #eee;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:active {
+    border: 0 solid #333;
+    border-bottom-width: 5px;
+    background-color: transparent;
+}
+
+section#home h5 {
+    font-size: 22px;
+    font-family: "Source Sans Pro", serif;
+    font-weight: lighter;
+}
+
+section#home h6 {
+    font-family: "Source Sans Pro", serif;
+    font-weight: lighter;
+    font-size: 18px;
+    color: #888;
+    margin-top: 10px;
+}
+
+section#home h1 {
+    margin-top: -10px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+section#home img {
+    border-radius: 999px;
+    width: 100%;
+    margin-top: 40px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04);
+}
+
+section#home .home-vote {
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+section#quality .home-box {
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    margin-top: 40px;
+    padding: 25px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04);
+    text-align: center;
+}
+
+section#quality .home-box .quote {
+    font-family: "IM Fell French Canon", serif;
+    font-size: 75px;
+    margin-top: -15px;
+    margin-bottom: -45px;
+    color: #aaa;
+}
+
+section#quality .home-box h2 {
+    font-style: italic;
+    font-size: 36px;
+}
+
+section#quality .home-box p {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+section#vote {
+    padding: 50px 0;
+}
+
+section#about p, section#issues p {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+section h1 {
+    /*text-transform: uppercase;*/
+    font-weight: normal;
+    color: #444;
+    margin: 20px 0 15px 0;
+    text-align: center;
+}
+
+/*section#about {
+    background-color: #f4f4f4; 
+}*/
+
+/*section#about .about-sections h3 {
+    
+    text-align: center;
+}*/
+
+section#about .about-section {
+    background-color: #dfdfdf;
+    padding: 15px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+}
+section#issues .about-section {
+    background-color: #dfdfdf;
+    padding: 15px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+}
+section#issues {
+    /*background-color: red;*/
+}
+
+section#vote {
+    background-color: #eee;
+    padding-bottom: 30px;
+}
+
+section#vote .vote-sections .vote-section {
+    padding: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section#vote .vote-sections .vote-section a:hover {
+    text-decoration: underline;
+}
+
+section#vote .vote-sections a {
+    color: #333;
+    font-family: "Josefin Sans", "Georgia", serif;
+}
+
+section#vote .vote-sections a:hover, section#vote .vote-sections a:focus, section#vote .vote-sections a:selected {
+    text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+
+
+}
+
+@media (min-width: 992px) {
+
+    
+}
+
+@media (min-width: 1200px) {
+
+    
+}
